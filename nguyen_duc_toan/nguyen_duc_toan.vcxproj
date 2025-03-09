@@ -131,6 +131,9 @@
     <ClCompile Include="math.c" />
     <ClCompile Include="tinh_tien_dien.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="math.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

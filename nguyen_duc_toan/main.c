@@ -1,8 +1,5 @@
-#include<stdio.h>
-int cong(int a, int b);
-int tru(int a, int b);
-int nhan(int a, int b);
-int chia(int a, int b);
+#include <stdio.h>
+#include "math.h"
 long long tiendien(int so_dien_tieu_thu);
 void main()
 {
