@@ -13,21 +13,21 @@ int cong(int a, int b)
 	sum = a + b;
 	return sum;
 }
-int tru(int c, int d)
+int tru(int a, int b)
 {
 	int tru;
-	tru = c - d;
+	tru = a - b;
 	return tru;
 }
-int nhan(int e, int f)
+int nhan(int a, int b)
 {
 	int nhan;
-	nhan = e * f;
+	nhan = a * b;
 	return nhan;
 }
-int chia(int g, int h)
+int chia(int a, int b)
 {
 	int chia;
-	chia = g + h;
+	chia = a / b;
 	return chia;
 }
