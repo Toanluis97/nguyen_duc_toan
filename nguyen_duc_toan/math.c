@@ -7,9 +7,27 @@ input
  Output
  int: ket qua
 */
-int sum(int a, int b)
+int cong(int a, int b)
 {
 	int sum;
 	sum = a + b;
 	return sum;
+}
+int tru(int c, int d)
+{
+	int tru;
+	tru = c - d;
+	return tru;
+}
+int nhan(int e, int f)
+{
+	int nhan;
+	nhan = e * f;
+	return nhan;
+}
+int chia(int g, int h)
+{
+	int chia;
+	chia = g + h;
+	return chia;
 }
