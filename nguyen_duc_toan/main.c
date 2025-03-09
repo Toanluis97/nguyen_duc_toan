@@ -7,10 +7,10 @@ void main()
 	int y = tru(3, 4);
 	int z = nhan(4, 5);
 	int t = chia(8, 4);
-	printf("%d \n", x);
-	printf("%d \n", y);
-	printf("%d \n", z);
-	printf("%d \n", t);
+	printf("Cong:%d \n", x);
+	printf("Tru:%d \n", y);
+	printf("Nhan:%d \n", z);
+	printf("Chia:%d \n", t);
 	printf("Hello World! \n");
 	long long td = tiendien(1000);
 }
