@@ -3,6 +3,7 @@ int cong(int a, int b);
 int tru(int a, int b);
 int nhan(int a, int b);
 int chia(int a, int b);
+long long tiendien(int so_dien_tieu_thu);
 void main()
 {
 	int x = cong(1, 2);
@@ -13,5 +14,6 @@ void main()
 	printf("%d \n", y);
 	printf("%d \n", z);
 	printf("%d \n", t);
-	printf("Hello World!");
+	printf("Hello World! \n");
+	long long td = tiendien(1000);
 }

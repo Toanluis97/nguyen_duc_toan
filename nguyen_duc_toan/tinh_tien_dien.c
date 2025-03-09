@@ -9,11 +9,10 @@ Bậc 6: Cho kWh từ 401 trở lên --> 2.927 VND/1KWh
 */
 #include <stdio.h>
 #include <math.h>
-long long tien_dien (int so_dien_tieu_thu)
+long long tiendien (int so_dien_tieu_thu)
 {
-	int so_dien_tieu_thu;
-	printf("Nhap vao so dien tieu thu:");
-	scanf_s("%d", &so_dien_tieu_thu);
+	//printf("Nhap vao so dien tieu thu:");
+	//scanf_s("%d", &so_dien_tieu_thu);
 	int san_luong;
 	int don_gia;
 	int bac = 1;
@@ -135,5 +134,5 @@ long long tien_dien (int so_dien_tieu_thu)
 	vat = 0.08 * bill_total;
 	printf("Thue gia tri gia tang (8%%):%lld \n", vat);
 	printf("Tong hoa don sau thue:%lld \n", vat + bill_total);
-	return tien_dien;
+	return tiendien;
 }

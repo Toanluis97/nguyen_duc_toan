@@ -21,5 +21,8 @@
     <ClCompile Include="math.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="tinh_tien_dien.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
