@@ -24,6 +24,24 @@
     <ClCompile Include="tinh_tien_dien.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="array_max.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="B1_array_sum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="B2_avg_odd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="B3_arr_max_index.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="B4_replace negative by 0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="B5_print odd num.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="math.h">

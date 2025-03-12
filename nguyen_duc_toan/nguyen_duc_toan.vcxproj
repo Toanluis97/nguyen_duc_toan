@@ -127,8 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="array_max.c" />
+    <ClCompile Include="B3_arr_max_index.c" />
+    <ClCompile Include="B1_array_sum.c" />
+    <ClCompile Include="B2_avg_odd.c" />
+    <ClCompile Include="B5_print odd num.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="math.c" />
+    <ClCompile Include="B4_replace negative by 0.c" />
     <ClCompile Include="tinh_tien_dien.c" />
   </ItemGroup>
   <ItemGroup>
