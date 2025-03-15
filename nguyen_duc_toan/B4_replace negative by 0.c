@@ -1,18 +1,25 @@
 /*
-Thay the cac so am trong mang bang 0
+Viet ham thay the cac so am trong mang bang 0
 */
-#include<stdio.h>
 
-void main1()
+void replace_0(int* arr, int arr_num)
 {
-	int arr1[5] = { -1, -4, 5, 6, -9 };
-	int arr2[5];
-	for (int i = 0; i < 5; i++)
+	for (int i = 0; i < arr_num; i++)
 	{
-		if (arr1[i] < 0)
-			arr2[i] = 0;
+		if (arr[i] < 0)
+		{
+			arr[i] = 0;
+			if(i==arr_num-1)
+			printf("%d\n", arr[i]);
+			else
+			printf("%d, ", arr[i]);
+		}
 		else
-			arr2[i] = arr1[i];
-		printf("%d, ", arr2[i]);
+		{
+			if (i == arr_num-1)
+				printf("%d\n", arr[i]);
+			else
+				printf("%d, ", arr[i]);
+		}
 	}
 }

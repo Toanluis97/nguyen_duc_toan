@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="array_max.c" />
+    <ClCompile Include="B7_array_max.c" />
     <ClCompile Include="B3_arr_max_index.c" />
     <ClCompile Include="B1_array_sum.c" />
     <ClCompile Include="B2_avg_odd.c" />

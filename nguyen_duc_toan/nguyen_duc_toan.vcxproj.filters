@@ -24,7 +24,7 @@
     <ClCompile Include="tinh_tien_dien.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="array_max.c">
+    <ClCompile Include="B7_array_max.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="B1_array_sum.c">
