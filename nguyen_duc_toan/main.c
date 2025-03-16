@@ -4,13 +4,13 @@ float arr_avg_odd(int* arr, int arr_num);
 int arr_max_index(int* arr, int arr_num);
 void replace_0(int* arr, int arr_num);
 int arr_print_odd(int* arr, int arr_num);
+void arr_songuyento(int* arr, int arr_sum);
 int arr_max(int* arr, int arr_num);
-
-
+//void arr_increase(int* arr, int arr_num);
 void main()
 {
-	int arr[5] = {1,120,78,35,56};
-
+	int arr[5] = { 1,120,-5,35,56 };
+	
 	//Bai 1: Tinh tong cac gia tri trong mang
 	int sum = 0;
 	sum = arr_sum(arr, 5);
@@ -35,13 +35,16 @@ void main()
 	arr_print_odd(arr, 5);
 
 	//Bai 6: In ra cac gia tri la so nguyen to trong mang
-
-
+	printf("\nBai 6: Cac so nguyen to trong mang la:");
+	arr_songuyento(arr, 5);
 
 	//Bai 7: In ra gia tri lon nhat trong mang
 	int max;
 	max = arr_max(arr, 5);
 	printf("\nBai 7: Gia tri lon nhat trong mang la:%d", max);
+	
+	//arr_increase(arr, 5);
+	
 }
 
 	

@@ -42,6 +42,12 @@
     <ClCompile Include="B5_print odd num.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="B6_so nguyen to.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mang tang dan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="math.h">
