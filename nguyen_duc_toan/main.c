@@ -7,7 +7,8 @@ void main()
 	int num = 0;
 	for (int i = 0; str[i]!= '\0';i++)
 		num++;
-	printf("%d", num);
+	num++;
+	printf("So luong ky tu trong chuoi la:%d", num);
 }
 
 	
