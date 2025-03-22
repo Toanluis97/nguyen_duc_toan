@@ -1,0 +1,1 @@
+//Xay dung ham tim ky tu c trong chuoi str, ham tra ve dia chi cua ky tu trong chuoi

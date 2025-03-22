@@ -48,6 +48,24 @@
     <ClCompile Include="Mang tang dan.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="String_B1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="String_B2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="String_B3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="String_B4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="String_B5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="String_B6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="math.h">

@@ -1,0 +1,1 @@
+//Xay dung ham dem so tu trong chuoi
