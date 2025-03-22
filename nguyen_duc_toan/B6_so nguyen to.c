@@ -1,3 +1,4 @@
+//Xay dung ham in ra cac so nguyen to trong mang
 void arr_songuyento(int* arr, int arr_sum)
 {
 	for (int i = 0; i < arr_sum; i++)

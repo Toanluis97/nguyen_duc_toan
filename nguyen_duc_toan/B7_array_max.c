@@ -1,3 +1,4 @@
+// Xay dung ham in ra gia tri lon nhat trong mang
 int arr_max(int* arr, int arr_sum)
 {
 	int arr_max = arr[0];

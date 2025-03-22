@@ -66,6 +66,30 @@
     <ClCompile Include="String_B6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pointer_B1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_B2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_B3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_B4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_B5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_B6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_B7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_B8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="math.h">

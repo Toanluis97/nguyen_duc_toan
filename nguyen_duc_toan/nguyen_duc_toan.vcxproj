@@ -137,6 +137,14 @@
     <ClCompile Include="Mang tang dan.c" />
     <ClCompile Include="math.c" />
     <ClCompile Include="B4_replace negative by 0.c" />
+    <ClCompile Include="pointer_B1.c" />
+    <ClCompile Include="pointer_B2.c" />
+    <ClCompile Include="pointer_B3.c" />
+    <ClCompile Include="pointer_B4.c" />
+    <ClCompile Include="pointer_B5.c" />
+    <ClCompile Include="pointer_B6.c" />
+    <ClCompile Include="pointer_B7.c" />
+    <ClCompile Include="pointer_B8.c" />
     <ClCompile Include="String_B1.c" />
     <ClCompile Include="String_B2.c" />
     <ClCompile Include="String_B3.c" />
