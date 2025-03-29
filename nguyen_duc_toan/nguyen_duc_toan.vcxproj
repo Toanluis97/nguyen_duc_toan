@@ -24,7 +24,7 @@
     <ProjectGuid>{82ef3603-98a3-4651-8c93-ed99fd8ae36b}</ProjectGuid>
     <RootNamespace>nguyenductoan</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>C_Function</ProjectName>
+    <ProjectName>nguyen_duc_toan</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
