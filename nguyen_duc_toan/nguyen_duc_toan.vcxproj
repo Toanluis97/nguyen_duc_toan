@@ -24,6 +24,7 @@
     <ProjectGuid>{82ef3603-98a3-4651-8c93-ed99fd8ae36b}</ProjectGuid>
     <RootNamespace>nguyenductoan</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>C_Function</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -135,26 +136,7 @@
     <ClCompile Include="Function_B5.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="Function_B8.c" />
-    <ClCompile Include="math.c" />
     <ClCompile Include="Function_B4.c" />
-    <ClCompile Include="pointer_B1.c" />
-    <ClCompile Include="pointer_B2.c" />
-    <ClCompile Include="pointer_B3.c" />
-    <ClCompile Include="pointer_B4.c" />
-    <ClCompile Include="pointer_B5.c" />
-    <ClCompile Include="pointer_B6.c" />
-    <ClCompile Include="pointer_B7.c" />
-    <ClCompile Include="pointer_B8.c" />
-    <ClCompile Include="String_B1.c" />
-    <ClCompile Include="String_B2.c" />
-    <ClCompile Include="String_B3.c" />
-    <ClCompile Include="String_B4.c" />
-    <ClCompile Include="String_B5.c" />
-    <ClCompile Include="String_B6.c" />
-    <ClCompile Include="tinh_tien_dien.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="math.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
