@@ -129,10 +129,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />
-    <ClCompile Include="Struct_chia phan so.c" />
-    <ClCompile Include="Struct_cong phan so.c" />
-    <ClCompile Include="Struct_rut gon phan so.c" />
-    <ClCompile Include="Struct_tru phan so.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
