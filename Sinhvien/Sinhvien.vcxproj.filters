@@ -18,17 +18,5 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Struct_cong phan so.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Struct_tru phan so.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Struct_chia phan so.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Struct_rut gon phan so.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

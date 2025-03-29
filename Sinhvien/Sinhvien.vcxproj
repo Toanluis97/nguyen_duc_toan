@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{82ef3603-98a3-4651-8c93-ed99fd8ae36b}</ProjectGuid>
-    <RootNamespace>nguyenductoan</RootNamespace>
+    <ProjectGuid>{9649fe5c-5427-44b7-b751-7da30c761d57}</ProjectGuid>
+    <RootNamespace>Sinhvien</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>phanso</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -129,10 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />
-    <ClCompile Include="Struct_chia phan so.c" />
-    <ClCompile Include="Struct_cong phan so.c" />
-    <ClCompile Include="Struct_rut gon phan so.c" />
-    <ClCompile Include="Struct_tru phan so.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
