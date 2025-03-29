@@ -128,15 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Function_B6.c" />
-    <ClCompile Include="Function_B7.c" />
-    <ClCompile Include="Function_B3.c" />
-    <ClCompile Include="Function_B1.c" />
-    <ClCompile Include="Function_B2.c" />
-    <ClCompile Include="Function_B5.c" />
     <ClCompile Include="main.c" />
-    <ClCompile Include="Function_B8.c" />
-    <ClCompile Include="Function_B4.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

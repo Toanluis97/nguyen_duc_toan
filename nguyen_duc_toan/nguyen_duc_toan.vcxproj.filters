@@ -18,29 +18,5 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Function_B7.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Function_B1.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Function_B2.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Function_B3.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Function_B4.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Function_B5.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Function_B6.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Function_B8.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
